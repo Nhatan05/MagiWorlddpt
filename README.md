@@ -1,0 +1,2 @@
+# MagiWorlddpt
+MagiWorld in terminal
